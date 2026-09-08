@@ -170,11 +170,9 @@ idf_component_register(SRCS "main.c"
 
 #### 4.1 จาก `idf.py monitor` 
 
-```
-
-
-```
+<img width="1366" height="768" alt="Screenshot (557)" src="https://github.com/user-attachments/assets/bbe4d670-bf40-485c-8683-937701fcee31" />
 
 #### 4.2 จากการสังเกตุ LED 
-
+```
+```
 
